@@ -28,6 +28,13 @@ Features
 * Is fairly fast and tested.
 
 
+Installation
+------------
+
+Clone, download or add as a submodule this so it rests in the `Assets/ChanibaL/RandomGenerator` directory.
+
+
+
 License
 -------
 
